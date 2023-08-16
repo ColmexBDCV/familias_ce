@@ -4,7 +4,7 @@ import random
 
 #data = pd.read_csv("familias.csv", delimiter = ',')
 #total = data.
-with open("familias.csv") as data:
+with open("familias140823.csv") as data:
     header = next(data)
     reader = csv.reader(data)
     root = {"id": 1, "label": "'" + 'Casa de España' + "'","shape": "'box'", "link":"'https://datom.colmex.mx/index.php/la-casa-de-espana-en-mexico'"}
