@@ -21,7 +21,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/salas-amalia'
+        link: 'https://datom.colmex.mx/index.php/salas-abella-fuertes-amalia'
     },
     {
         id: 4,
@@ -75,7 +75,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/barnes-salinas-francisco-2'
+        link: 'https://datom.colmex.mx/index.php/barnes-salinas-francisco'
     },
     {
         id: 10,
@@ -93,7 +93,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/barnes-gonzalez-de-garcia-adela'
+        link: 'https://datom.colmex.mx/index.php/barnes-gonzalez-adela'
     },
     {
         id: 12,
@@ -102,7 +102,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/garcia-german'
+        link: 'https://datom.colmex.mx/index.php/garcia-garcia-german'
     },
     {
         id: 13,
@@ -120,7 +120,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/castro-de-barnes-maria-luisa'
+        link: 'https://datom.colmex.mx/index.php/castro-bravo-maria-luisa-de'
     },
     {
         id: 15,
@@ -147,7 +147,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/barnes-domingo'
+        link: 'https://datom.colmex.mx/index.php/barnes-salinas-domingo'
     },
     {
         id: 18,
@@ -156,7 +156,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/gonzalez-de-la-calle-urbano'
+        link: 'https://datom.colmex.mx/index.php/gonzalez-de-la-calle-pedro-urbano'
     },
     {
         id: 19,
@@ -165,7 +165,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/bolivar-ignacio'
+        link: 'https://datom.colmex.mx/index.php/bolivar-y-urrutia-ignacio'
     },
     {
         id: 20,
@@ -201,7 +201,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/tapia-bolivar-almita'
+        link: 'https://datom.colmex.mx/index.php/tapia-bolivar-alma'
     },
     {
         id: 24,
@@ -228,7 +228,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/goyanes-echegoyen-de-bolivar-amelia'
+        link: 'https://datom.colmex.mx/index.php/goyanes-echegoyen-amelia'
     },
     {
         id: 27,
@@ -246,7 +246,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/pelaez-dionisio'
+        link: 'https://datom.colmex.mx/index.php/pelaez-fernandez-dionisio'
     },
     {
         id: 29,
@@ -255,7 +255,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/buen-lozano-fernando-de-2'
+        link: 'https://datom.colmex.mx/index.php/buen-lozano-fernando-de'
     },
     {
         id: 30,
@@ -273,7 +273,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/de-buen-lopez-de-heredia-sadi'
+        link: 'https://datom.colmex.mx/index.php/buen-lopez-de-heredia-sadi-de'
     },
     {
         id: 32,
@@ -327,7 +327,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/garcia-ascot-fernandez-jose-miguel'
+        link: 'https://datom.colmex.mx/index.php/garcia-ascot-jomi'
     },
     {
         id: 38,
@@ -399,7 +399,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/blas-cabrera-y-felipe'
+        link: 'https://datom.colmex.mx/index.php/cabrera-blas'
     },
     {
         id: 46,
@@ -426,7 +426,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/carner-jose'
+        link: 'https://datom.colmex.mx/index.php/carner-josep'
     },
     {
         id: 49,
@@ -435,7 +435,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/noulet-emili'
+        link: 'https://datom.colmex.mx/index.php/noulet-emilie'
     },
     {
         id: 50,
@@ -453,7 +453,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/carrasco-formiguera-pedro'
+        link: 'https://datom.colmex.mx/index.php/carrasco-garrorena-pedro'
     },
     {
         id: 52,
@@ -489,7 +489,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/vidaurrey-y-satostegui-de-carrasco-nemesia'
+        link: 'https://datom.colmex.mx/index.php/vidaurre-y-satostegui-nemesia'
     },
     {
         id: 56,
@@ -570,7 +570,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/gongora-de-castrovido-maria-del-amparo'
+        link: 'https://datom.colmex.mx/index.php/gongora-regueiro-amparo'
     },
     {
         id: 65,
@@ -597,7 +597,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/costero-isaac-2'
+        link: 'https://datom.colmex.mx/index.php/costero-isaac'
     },
     {
         id: 68,
@@ -606,7 +606,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/citoler-de-costero-carmen-gracia'
+        link: 'https://datom.colmex.mx/index.php/gracia-citoler-carmen'
     },
     {
         id: 69,
@@ -633,7 +633,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/comas-camps-juan-2'
+        link: 'https://datom.colmex.mx/index.php/comas-juan'
     },
     {
         id: 72,
@@ -651,7 +651,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/diaz-canedo-enrique'
+        link: 'https://datom.colmex.mx/index.php/diez-canedo-enrique'
     },
     {
         id: 74,
@@ -696,7 +696,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/diez-canedo-maria-teresa'
+        link: 'https://datom.colmex.mx/index.php/diez-canedo-manteca-maria-teresa'
     },
     {
         id: 79,
@@ -714,7 +714,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/marquez-maria-teresa'
+        link: 'https://datom.colmex.mx/index.php/marquez-diez-canedo-maria-teresa'
     },
     {
         id: 81,
@@ -768,7 +768,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/mx-bdcv-fce-ra4107'
+        link: 'https://datom.colmex.mx/index.php/calderon-domenchina-encarnacion'
     },
     {
         id: 87,
@@ -777,7 +777,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/fernandez-agueda'
+        link: 'https://datom.colmex.mx/index.php/fernandez-martinez-agueda'
     },
     {
         id: 88,
@@ -804,7 +804,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/hernandez-de-gaos-angela'
+        link: 'https://datom.colmex.mx/index.php/hernandez-barbarros-maria-de-los-angeles'
     },
     {
         id: 91,
@@ -813,7 +813,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/gaos-hernandez-angeles'
+        link: 'https://datom.colmex.mx/index.php/gaos-de-camacho-angeles'
     },
     {
         id: 92,
@@ -822,7 +822,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/gaos-hernandez-palma'
+        link: 'https://datom.colmex.mx/index.php/gaos-hernandez-paloma'
     },
     {
         id: 93,
@@ -849,7 +849,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/giner-de-los-rios-francisco'
+        link: 'https://datom.colmex.mx/index.php/giner-de-los-rios-morales-francisco'
     },
     {
         id: 96,
@@ -930,7 +930,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/giral-francisco'
+        link: 'https://datom.colmex.mx/index.php/giral-gonzalez-francisco'
     },
     {
         id: 105,
@@ -993,7 +993,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/jarnes-benjamin'
+        link: 'https://datom.colmex.mx/index.php/jarnes-millan-benjamin'
     },
     {
         id: 112,
@@ -1020,7 +1020,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/zubiaurre-y-aguirrezabal-pilar-de'
+        link: 'https://datom.colmex.mx/index.php/zubiaurre-pilar-de'
     },
     {
         id: 115,
@@ -1056,7 +1056,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/madinaveitia-antonio'
+        link: 'https://datom.colmex.mx/index.php/madinaveitia-tabuyo-antonio'
     },
     {
         id: 119,
@@ -1110,7 +1110,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/medina-echevarria-jose'
+        link: 'https://datom.colmex.mx/index.php/medina-echavarria-jose'
     },
     {
         id: 125,
@@ -1164,7 +1164,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/millares-agustin'
+        link: 'https://datom.colmex.mx/index.php/millares-carlo-agustin'
     },
     {
         id: 131,
@@ -1182,7 +1182,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/millares-mercedes'
+        link: 'https://datom.colmex.mx/index.php/millares-bravo-mercedes'
     },
     {
         id: 133,
@@ -1191,7 +1191,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/millares-rosa'
+        link: 'https://datom.colmex.mx/index.php/millares-bravo-rosa'
     },
     {
         id: 134,
@@ -1209,7 +1209,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/bravo-martinez-mercedes-2'
+        link: 'https://datom.colmex.mx/index.php/bravo-martinez-mercedes'
     },
     {
         id: 136,
@@ -1218,7 +1218,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/henandez-millares-jorge'
+        link: 'https://datom.colmex.mx/index.php/hernandez-millares-jorge'
     },
     {
         id: 137,
@@ -1227,7 +1227,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/nieto-dionisio'
+        link: 'https://datom.colmex.mx/index.php/nieto-gomez-dionisio'
     },
     {
         id: 138,
@@ -1245,7 +1245,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/pi-suner-jaime'
+        link: 'https://datom.colmex.mx/index.php/pi-suner-bayo-jaime'
     },
     {
         id: 140,
@@ -1263,7 +1263,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/bayo-carme'
+        link: 'https://datom.colmex.mx/index.php/bayo-carmen'
     },
     {
         id: 142,
@@ -1299,7 +1299,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/romeo-lozano-aurelio-3'
+        link: 'https://datom.colmex.mx/index.php/romeo-lozano-aurelio'
     },
     {
         id: 146,
@@ -1407,7 +1407,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/riba-carlos '
+        link: 'https://datom.colmex.mx/index.php/riba-carles'
     },
     {
         id: 158,
@@ -1452,7 +1452,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/roura-parella-juan-2'
+        link: 'https://datom.colmex.mx/index.php/roura-parella-juan'
     },
     {
         id: 163,
@@ -1470,7 +1470,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/ramon-y-falco-eugenio'
+        link: 'https://datom.colmex.mx/index.php/ramon-falco-eugenio'
     },
     {
         id: 165,
@@ -1488,7 +1488,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/ramon-y-llige-adela'
+        link: 'https://datom.colmex.mx/index.php/ramon-llige-adela'
     },
     {
         id: 167,
@@ -1515,7 +1515,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/rivas-cherif-manuel'
+        link: 'https://datom.colmex.mx/index.php/rivas-cherif-manuel-de'
     },
     {
         id: 170,
@@ -1542,7 +1542,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/ruiz-funes-garcia-mariano-2'
+        link: 'https://datom.colmex.mx/index.php/ruiz-funes-garcia-mariano'
     },
     {
         id: 173,
@@ -1587,7 +1587,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/ruiz-funes-montesinos-concepcion'
+        link: 'https://datom.colmex.mx/index.php/ruiz-funes-concepcion'
     },
     {
         id: 178,
@@ -1668,7 +1668,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/velo-carlos-2'
+        link: 'https://datom.colmex.mx/index.php/velo-carlos'
     },
     {
         id: 187,
@@ -1704,7 +1704,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/xirau-subias-ramon'
+        link: 'https://datom.colmex.mx/index.php/xirau-ramon'
     },
     {
         id: 191,
@@ -1776,7 +1776,7 @@ var nodes = [
         shape: 'box',
         x: 300,
         y: -300,
-        link: 'https://datom.colmex.mx/index.php/folch-nuria'
+        link: 'https://datom.colmex.mx/index.php/folch-i-pi-nuria'
     },
     {
         id: 199,
