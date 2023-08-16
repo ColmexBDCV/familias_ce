@@ -1,0 +1,2 @@
+https://github.com/ColmexBDCV/familias_ce/archive/refs/tags/familias_v1.3.zip
+sha256: 8630d48a5d9872536318711623444f50170eeaf987a98e48083c595571859d97

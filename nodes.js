@@ -3,7 +3,7 @@ var nodes = [
         id: 1,
         label: 'Casa de Espa\u00f1a',
         shape: 'box',
-        link: 'https://datom.colmex.mx/index.php/la-casa-de-espana-en-mexico'
+        link: 'https://archivos.colmex.mx/index.php/la-casa-de-espana-en-mexico'
     },
     {
         id: 2,
