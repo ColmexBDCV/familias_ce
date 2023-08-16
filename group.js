@@ -1,119 +1,119 @@
 var group = {
     2: {
-        color: "#47E222"
+        color: "#905881"
     },
     9: {
-        color: "#98C442"
+        color: "#E44B85"
     },
     19: {
-        color: "#E4919A"
+        color: "#AB05AD"
     },
     29: {
-        color: "#BFDD47"
+        color: "#950C03"
     },
     33: {
-        color: "#194551"
+        color: "#27D4C8"
     },
     43: {
-        color: "#327B21"
+        color: "#AF07CB"
     },
     48: {
-        color: "#908B10"
+        color: "#ADA42B"
     },
     51: {
-        color: "#F3806D"
+        color: "#0F7167"
     },
     54: {
-        color: "#237956"
+        color: "#52D126"
     },
     61: {
-        color: "#628634"
+        color: "#544884"
     },
     67: {
-        color: "#ED109A"
+        color: "#A593D2"
     },
     71: {
-        color: "#A171D1"
+        color: "#C8C345"
     },
     73: {
-        color: "#008D0F"
+        color: "#7F5ECB"
     },
     81: {
-        color: "#35BF0E"
+        color: "#924EE5"
     },
     87: {
-        color: "#330A96"
+        color: "#AA06C2"
     },
     89: {
-        color: "#07DEE0"
+        color: "#EC09D8"
     },
     95: {
-        color: "#2938A7"
+        color: "#EDACD1"
     },
     102: {
-        color: "#9CD8C2"
+        color: "#AE3949"
     },
     111: {
-        color: "#C33E99"
+        color: "#6A570A"
     },
     113: {
-        color: "#CB213D"
+        color: "#C8053D"
     },
     116: {
-        color: "#E82643"
+        color: "#FAA4A4"
     },
     118: {
-        color: "#3B80BC"
+        color: "#178225"
     },
     124: {
-        color: "#0383B2"
+        color: "#AC7E72"
     },
     128: {
-        color: "#4C8F15"
+        color: "#595D9D"
     },
     130: {
-        color: "#6C1E00"
+        color: "#4808DD"
     },
     137: {
-        color: "#B32640"
+        color: "#BCC6E0"
     },
     139: {
-        color: "#3FEF9F"
+        color: "#FC10FB"
     },
     145: {
-        color: "#441859"
+        color: "#9C0CEA"
     },
     153: {
-        color: "#B59697"
+        color: "#49827A"
     },
     155: {
-        color: "#8585A4"
+        color: "#AB6151"
     },
     157: {
-        color: "#8FF2E9"
+        color: "#DC5D2D"
     },
     162: {
-        color: "#C5B087"
+        color: "#318253"
     },
     169: {
-        color: "#C4DCE9"
+        color: "#863AF1"
     },
     172: {
-        color: "#62EC38"
+        color: "#3FE6AC"
     },
     178: {
-        color: "#A786DD"
+        color: "#EECCB6"
     },
     184: {
-        color: "#B746C8"
+        color: "#269A78"
     },
     186: {
-        color: "#2C5749"
+        color: "#FE6ED3"
     },
     188: {
-        color: "#FFEB5C"
+        color: "#64841A"
     },
     199: {
-        color: "#4D1126"
+        color: "#E58F57"
     }
 }; export {group};
